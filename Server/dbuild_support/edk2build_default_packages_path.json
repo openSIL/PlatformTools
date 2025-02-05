@@ -1,0 +1,18 @@
+[
+  "",
+  "AGESA",
+  "edk2",
+  "edk2-platforms",
+  "edk2-platforms/Features",
+  "edk2-platforms/Platform/AMD",
+  "edk2-platforms/Platform/Intel",
+  "edk2-platforms/Features/Intel",
+  "edk2-platforms/Features/Intel/SystemInformation",
+  "edk2-platforms/Silicon/Intel",
+  "edk2-platforms/Features/Intel/OutOfBandManagement",
+  "edk2-platforms/Features/Intel/Network",
+  "edk2-platforms/Features/Intel/Debugging",
+  "edk2-platforms/Features/Intel/PowerManagement",
+  "edk2-platforms/Features/Intel/UserInterface",
+  "edk2-non-osi"
+]
