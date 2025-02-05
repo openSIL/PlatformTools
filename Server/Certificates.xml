@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/*****************************************************************************
+ * Copyright (C) 2022-2023 Advanced Micro Devices, Inc. All rights reserved.
+ *
+ *******************************************************************************/
+-->
+
+<catalog>
+    <package name="SecurebootKeys" scatter="false">
+        <folder> </folder>
+    </package>
+</catalog>
