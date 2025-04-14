@@ -14,7 +14,7 @@
     <IMAGE_ENTRY Type="0x8" File="TypeId0x08_SmuFirmware_breithorn.csbin" />
     <IMAGE_ENTRY Type="0xA" File="TypeId0x0A_PspAblPubKey_BRH.stkn" />
     <VALUE_ENTRY Type="0xB" Value="0x01" />
-    <IMAGE_ENTRY Type="0x13" File="TypeId0x13_SduFw_BRH.sbin" />
+    <IMAGE_ENTRY Type="0x13" File="TypeId0x13_SduFw_BRH.csbin" />
     <IMAGE_ENTRY Type="0x15" File="TypeId0x15_IpKeyManagerDriver_BRH.csbin" />
     <IMAGE_ENTRY Type="0x1A" File="TypeId0x1A_SevDriver_BRH.csbin" />
     <IMAGE_ENTRY Type="0x1B" File="TypeId0x1B_BootDriver_BRH.csbin" />
@@ -68,8 +68,6 @@
       File="Type0x64_AppbDdr5RdimmPosttrainImem9_BRH.ecsbin" />
     <IMAGE_ENTRY Type="0x64" Instance="0x0A" SubProgram="0x0"
       File="Type0x64_AppbDdr5RdimmPosttrainImem10_BRH.ecsbin" />
-    <IMAGE_ENTRY Type="0x64" Instance="0x0B" SubProgram="0x0"
-      File="Type0x64_AppbDdr5RdimmQuickbootImem11_BRH.csbin" />
     <IMAGE_ENTRY Type="0x65" Instance="0x03" SubProgram="0x0"
       File="Type0x65_AppbDdr5RdimmDmem3_BRH.ecsbin" />
     <IMAGE_ENTRY Type="0x65" Instance="0x04" SubProgram="0x0"
@@ -91,7 +89,7 @@
     <IMAGE_ENTRY Type="0x9" File="TypeId0x09_PspDebugUnlockToken_BRH.stkn" />
     <IMAGE_ENTRY Type="0xA" File="TypeId0x0A_PspAblPubKey_BRH.stkn" />
     <VALUE_ENTRY Type="0xB" Value="0x01" />
-    <IMAGE_ENTRY Type="0x13" File="TypeId0x13_SduFw_BRH.sbin" />
+    <IMAGE_ENTRY Type="0x13" File="TypeId0x13_SduFw_BRH.csbin" />
     <IMAGE_ENTRY Type="0x15" File="TypeId0x15_IpKeyManagerDriver_BRH.csbin" />
     <IMAGE_ENTRY Type="0x1A" File="TypeId0x1A_SevDriver_BRH.csbin" />
     <IMAGE_ENTRY Type="0x1B" File="TypeId0x1B_BootDriver_BRH.csbin" />
@@ -148,8 +146,6 @@
       File="Type0x64_AppbDdr5RdimmPosttrainImem9_BRH.ecsbin" />
     <IMAGE_ENTRY Type="0x64" Instance="0x0A" SubProgram="0x0"
       File="Type0x64_AppbDdr5RdimmPosttrainImem10_BRH.ecsbin" />
-    <IMAGE_ENTRY Type="0x64" Instance="0x0B" SubProgram="0x0"
-      File="Type0x64_AppbDdr5RdimmQuickbootImem11_BRH.csbin" />
     <IMAGE_ENTRY Type="0x65" Instance="0x03" SubProgram="0x0"
       File="Type0x65_AppbDdr5RdimmDmem3_BRH.ecsbin" />
     <IMAGE_ENTRY Type="0x65" Instance="0x04" SubProgram="0x0"
